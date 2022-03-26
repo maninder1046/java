@@ -1,4 +1,5 @@
 import java.util.*;
+// program to enter details of student with static university 
 class Student{
  int rollno;
  String name;
